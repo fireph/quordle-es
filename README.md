@@ -2,7 +2,7 @@
 
 ![Quordle](https://es.quordle.com/quordle-banner-1200.png)
 
-¡Ponga sus habilidades en la prueba y resuelva cuatro wordles a la vez! Tienes 9 conjeturas para resolver las cuatro palabras. Un nuevo sordle disponible cada día para resolver.
+¡Pon tus habilidades a prueba y resuelve cuatro palabras a la vez! Tienes 9 intentos para resolver las cuatro palabras. Un nuevo quordle disponible cada día.
 
 [![Crowdin](https://badges.crowdin.net/quordle/localized.svg)](https://crowdin.com/project/quordle)
 
